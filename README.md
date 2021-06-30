@@ -1,11 +1,13 @@
 # Daltix Data Inspector(DDI)
 
-It is a CLI tool to analyse JSON files(gzipped) and generate a report over it. The tool helps to group the data and helps to perform aggregate calculations over it \
-The generated report is a TSV file with the following columns:
+* It is a CLI tool to analyse JSON files(gzipped) and generate a report over it. The tool helps to group the data and helps to perform aggregate calculations over it.
+* The generated report is a TSV file with the following columns:
 **shop, country, location, resource_type, resource_count, has_name,
 has_name_pct, has_brand, has_brand_pct, has_description,
 has_description_pct, has_images, has_images_pct, has_price,
-has_price_pct, has_promo, has_promo_pct**
+has_price_pct, has_promo, has_promo_pct**.
+* To keep the cli simple, I have used **functional programmming** in python.
+* It uses **boto3** for aws s3 file upload download and **pandas** for **data analysis**(entire transform method is based on this library).
 
 ## Requirement or Assumption
 * AWS credentials(IAM) should be configured beforehand on the machine at which this cli is about to get used.
@@ -16,7 +18,7 @@ has_price_pct, has_promo, has_promo_pct**
 
 ## Installation
 
-I used [anaconda](https://www.anaconda.com/products/individual) here as package manager\
+I have used [anaconda](https://www.anaconda.com/products/individual) here as package manager\
 Commands for both are written as follows:
 ```bash
 # using Conda
