@@ -1,0 +1,133 @@
+2021-06-30 21:36:55,620 :: INFO :: base logger
+2021-06-30 21:38:19,003 :: ERROR :: base logger
+2021-06-30 21:40:43,582 :: INFO :: Found credentials in shared credentials file: ~/.aws/credentials
+2021-06-30 21:40:43,893 :: INFO :: Execution Started
+2021-06-30 21:41:22,825 :: INFO :: Created directory
+2021-06-30 21:41:22,827 :: INFO :: report_20210630094122.csv column metadata
+2021-06-30 21:41:22,829 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-42-18-876da73a-4eec-4982-a453-c1876853556f.gz. This will be sent to pandas pipeline to generate reports
+2021-06-30 21:41:29,478 :: INFO :: NumExpr defaulting to 4 threads.
+2021-06-30 21:41:32,854 :: INFO :: Summarized data written to the report
+2021-06-30 21:41:33,122 :: INFO :: Dataframe Information: None
+2021-06-30 21:41:33,226 :: INFO :: Report: C:\Users\DELL\Desktop\daltix_cli\output\report_20210630094122.csv generated successfully
+2021-06-30 21:41:33,226 :: WARNING :: Pipeline from AWS to None requires support
+2021-06-30 21:41:33,226 :: INFO :: Need to extend the support module for this functionality
+2021-06-30 21:41:33,226 :: INFO :: Pipeline from AWS S3 to local executed successfully
+2021-07-01 00:10:24,101 :: INFO :: Found credentials in shared credentials file: ~/.aws/credentials
+2021-07-01 00:33:09,373 :: INFO :: Found credentials in shared credentials file: ~/.aws/credentials
+2021-07-01 00:33:09,645 :: INFO :: Execution Started
+2021-07-01 00:33:19,217 :: INFO :: Created directory
+2021-07-01 00:33:19,220 :: INFO :: report_20210701123319.tsv column metadata
+2021-07-01 00:33:19,223 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-42-18-876da73a-4eec-4982-a453-c1876853556f.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 00:33:25,362 :: INFO :: NumExpr defaulting to 4 threads.
+2021-07-01 00:33:28,279 :: INFO :: Summarized data written to the report
+2021-07-01 00:33:28,523 :: INFO :: Dataframe Information: None
+2021-07-01 00:33:28,613 :: INFO :: Report: C:\Users\DELL\Desktop\daltix_cli\output\report_20210701123319.tsv generated successfully
+2021-07-01 00:33:28,613 :: WARNING :: Pipeline from AWS to None requires support
+2021-07-01 00:33:28,613 :: INFO :: Need to extend the support module for this functionality
+2021-07-01 00:33:28,613 :: INFO :: Pipeline from AWS S3 to local executed successfully
+2021-07-01 01:03:21,948 :: INFO :: Found credentials in shared credentials file: ~/.aws/credentials
+2021-07-01 01:03:22,220 :: INFO :: Execution Started
+2021-07-01 01:03:22,221 :: INFO :: report_20210701010322.csv column metadata
+2021-07-01 01:03:22,224 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-01-32-c9583ae1-fe3e-4061-90c5-7e4c286dc757.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:03:26,554 :: INFO :: NumExpr defaulting to 4 threads.
+2021-07-01 01:03:28,801 :: INFO :: Summarized data written to the report
+2021-07-01 01:03:28,992 :: INFO :: Dataframe Information: None
+2021-07-01 01:03:28,992 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-02-05-4d002570-c6a6-4680-a8f9-c62b7edb585d.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:03:36,203 :: INFO :: Summarized data written to the report
+2021-07-01 01:03:36,404 :: INFO :: Dataframe Information: None
+2021-07-01 01:03:36,405 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-06-33-2583cf0a-b202-49e5-9eaf-d80571540abd.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:03:46,356 :: INFO :: Summarized data written to the report
+2021-07-01 01:03:46,890 :: INFO :: Dataframe Information: None
+2021-07-01 01:03:46,891 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-07-05-d31e7c72-93a2-4850-889c-36f0d2a58dda.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:03:57,620 :: INFO :: Summarized data written to the report
+2021-07-01 01:03:57,884 :: INFO :: Dataframe Information: None
+2021-07-01 01:03:57,885 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-11-35-0e2bef83-ab04-4f8f-a012-f8f8c6971cad.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:04:06,230 :: INFO :: Summarized data written to the report
+2021-07-01 01:04:06,465 :: INFO :: Dataframe Information: None
+2021-07-01 01:04:06,465 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-16-36-19989424-acf1-4306-950b-0ae1755f1383.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:04:15,273 :: INFO :: Summarized data written to the report
+2021-07-01 01:04:15,506 :: INFO :: Dataframe Information: None
+2021-07-01 01:04:15,506 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-17-08-bba81bb6-71a1-43a9-96d4-b77ebdf12aeb.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:04:24,176 :: INFO :: Summarized data written to the report
+2021-07-01 01:04:24,410 :: INFO :: Dataframe Information: None
+2021-07-01 01:04:24,410 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-21-40-7765aa52-d4fb-4abe-9d7e-984e6977dd2a.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:04:33,096 :: INFO :: Summarized data written to the report
+2021-07-01 01:04:33,327 :: INFO :: Dataframe Information: None
+2021-07-01 01:04:33,328 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-22-07-0ffc9404-cd1d-4b76-8612-50a5902ae76e.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:04:41,634 :: INFO :: Summarized data written to the report
+2021-07-01 01:04:41,868 :: INFO :: Dataframe Information: None
+2021-07-01 01:04:41,868 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-26-44-cb8c66cf-bbb0-4bbb-89af-bce5989c2547.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:04:49,746 :: INFO :: Summarized data written to the report
+2021-07-01 01:04:49,966 :: INFO :: Dataframe Information: None
+2021-07-01 01:04:49,966 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-27-10-eb9f3e8e-2152-44a6-8936-3d7dc85616d2.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:04:57,803 :: INFO :: Summarized data written to the report
+2021-07-01 01:04:58,019 :: INFO :: Dataframe Information: None
+2021-07-01 01:04:58,019 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-31-45-7098d9ba-9bc2-4315-ad66-2e5079f2c5fe.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:05:05,801 :: INFO :: Summarized data written to the report
+2021-07-01 01:05:06,017 :: INFO :: Dataframe Information: None
+2021-07-01 01:05:06,017 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-32-14-3cb41793-a905-47b0-a305-454146d79e4e.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:05:13,910 :: INFO :: Summarized data written to the report
+2021-07-01 01:05:14,130 :: INFO :: Dataframe Information: None
+2021-07-01 01:05:14,130 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-36-45-882e5f1f-60ac-4e4f-8dd8-e4a16679c07b.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:05:25,994 :: INFO :: Summarized data written to the report
+2021-07-01 01:05:26,257 :: INFO :: Dataframe Information: None
+2021-07-01 01:05:26,257 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-37-17-d5edf8f5-9aad-42fa-bf68-f84328f870b3.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:05:35,697 :: INFO :: Summarized data written to the report
+2021-07-01 01:05:35,961 :: INFO :: Dataframe Information: None
+2021-07-01 01:05:35,961 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-41-47-6e0fde4f-6386-45ce-be53-ad32e15d14cc.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:05:45,910 :: INFO :: Summarized data written to the report
+2021-07-01 01:05:46,183 :: INFO :: Dataframe Information: None
+2021-07-01 01:05:46,183 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-42-18-876da73a-4eec-4982-a453-c1876853556f.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:05:55,987 :: INFO :: Summarized data written to the report
+2021-07-01 01:05:56,251 :: INFO :: Dataframe Information: None
+2021-07-01 01:05:56,251 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-46-41-ee891d37-45df-4e67-9776-d22175253c06.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:06:05,293 :: INFO :: Summarized data written to the report
+2021-07-01 01:06:05,544 :: INFO :: Dataframe Information: None
+2021-07-01 01:06:05,544 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-47-12-e7e59f8e-bc88-435c-95b5-22471db0cb5f.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:06:14,297 :: INFO :: Summarized data written to the report
+2021-07-01 01:06:14,550 :: INFO :: Dataframe Information: None
+2021-07-01 01:06:14,550 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-51-43-fbcdef20-7fb0-48ae-a55a-a3269388e8fc.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:06:22,707 :: INFO :: Summarized data written to the report
+2021-07-01 01:06:22,940 :: INFO :: Dataframe Information: None
+2021-07-01 01:06:22,940 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-52-11-25eb0dc9-d4e1-4ebf-8047-a9fd7b7dc599.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:06:30,935 :: INFO :: Summarized data written to the report
+2021-07-01 01:06:31,165 :: INFO :: Dataframe Information: None
+2021-07-01 01:06:31,165 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-56-43-7731658e-7a11-4cd1-9913-5403b41aa742.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:06:39,156 :: INFO :: Summarized data written to the report
+2021-07-01 01:06:39,379 :: INFO :: Dataframe Information: None
+2021-07-01 01:06:39,379 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-07-57-13-f87b744d-6599-4e8a-bf99-cc45fbe16d20.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:06:47,653 :: INFO :: Summarized data written to the report
+2021-07-01 01:06:47,889 :: INFO :: Dataframe Information: None
+2021-07-01 01:06:47,889 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-08-01-45-32a59fc6-612d-4376-bdfa-82711019ba08.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:06:54,592 :: INFO :: Summarized data written to the report
+2021-07-01 01:06:54,795 :: INFO :: Dataframe Information: None
+2021-07-01 01:06:54,795 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-08-02-17-6eb8ee08-8341-4c39-97b3-355118dfc950.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:07:01,058 :: INFO :: Summarized data written to the report
+2021-07-01 01:07:01,248 :: INFO :: Dataframe Information: None
+2021-07-01 01:07:01,248 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-08-06-46-f4b72ab6-4f1f-41f7-87de-9cb04e596655.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:07:07,435 :: INFO :: Summarized data written to the report
+2021-07-01 01:07:07,614 :: INFO :: Dataframe Information: None
+2021-07-01 01:07:07,614 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-08-07-21-2c4e8951-b727-450f-ba6f-eb0929ac754d.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:07:13,920 :: INFO :: Summarized data written to the report
+2021-07-01 01:07:14,102 :: INFO :: Dataframe Information: None
+2021-07-01 01:07:14,102 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-08-11-49-2945d125-57e7-4688-b1a6-280727989e5b.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:07:19,939 :: INFO :: Summarized data written to the report
+2021-07-01 01:07:20,112 :: INFO :: Dataframe Information: None
+2021-07-01 01:07:20,181 :: INFO :: Report: C:\Users\DELL\Desktop\daltix_cli\output\report_20210701010322.csv generated successfully
+2021-07-01 01:07:20,181 :: WARNING :: Pipeline from local to None requires support
+2021-07-01 01:07:20,181 :: INFO :: Need to extend the support module for this functionality
+2021-07-01 01:07:20,181 :: ERROR :: Can't post the failure message
+2021-07-01 01:17:13,498 :: INFO :: Found credentials in shared credentials file: ~/.aws/credentials
+2021-07-01 01:17:13,786 :: INFO :: Execution Started
+2021-07-01 01:17:13,788 :: INFO :: report_20210701011713.csv column metadata
+2021-07-01 01:17:13,790 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-08-07-21-2c4e8951-b727-450f-ba6f-eb0929ac754d.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:17:17,355 :: INFO :: NumExpr defaulting to 4 threads.
+2021-07-01 01:17:19,307 :: INFO :: Summarized data written to the report
+2021-07-01 01:17:19,494 :: INFO :: Dataframe Information: None
+2021-07-01 01:17:19,495 :: INFO :: Working on C:\Users\DELL\Desktop\daltix_cli\software_engineer_challenge\transformer-output-default-prod-4-2021-03-21-08-11-49-2945d125-57e7-4688-b1a6-280727989e5b.gz. This will be sent to pandas pipeline to generate reports
+2021-07-01 01:17:25,509 :: INFO :: Summarized data written to the report
+2021-07-01 01:17:25,706 :: INFO :: Dataframe Information: None
+2021-07-01 01:17:25,771 :: INFO :: Report: C:\Users\DELL\Desktop\daltix_cli\output\report_20210701011713.csv generated successfully
+2021-07-01 01:17:28,028 :: ERROR :: Failed to upload C:\Users\DELL\Desktop\daltix_cli\output\report_20210701011713.csv to daltix-public-interviews/C:\Users\DELL\Desktop\daltix_cli\output\report_20210701011713.csv: An error occurred (AccessDenied) when calling the PutObject operation: Access Denied
+2021-07-01 01:17:28,028 :: ERROR :: Please configure your credentials for the bucket you want to push your data to
+2021-07-01 01:17:28,028 :: INFO :: Pipeline from local to local executed successfully

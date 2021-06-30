@@ -1,0 +1,7 @@
+# files and folders
+.vscode/
+.spyproject/
+output/
+__pycache__/
+.idea/
+
